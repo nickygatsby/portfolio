@@ -259,6 +259,7 @@ nav ul li a:hover::after{
 .ach-table{
   margin-left: 180px;
   margin-top: 30px;
+  margin-right: 140px;
 }
 
 .achleftcolumn {
@@ -335,4 +336,3 @@ button {
 button:hover {
   background-color: #0056b3;
 }
-
